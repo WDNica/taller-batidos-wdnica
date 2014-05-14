@@ -4,7 +4,7 @@ Jekyll Photo Grid Gallery
 Jekyll theme based on [Blueprint: Google Grid Gallery](http://tympanus.net/codrops/?p=18699)
 
 ## Demo
-View this theme in action [here](https://nadjetey.github.io/GridGallery)
+View this jekyll theme in action [here](https://nadjetey.github.io/GridGallery)
 
 ![screenshot](https://raw.github.com/nadjetey/GridGallery/master/jggg.png)
 
