@@ -1,8 +1,8 @@
-name: Photo gallery
+name: Eventos WDNica 
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
-url: http://nadjetey.github.io/GridGallery/
+url: http://WDNica.github.io/taller-batidos-wdnica
 author:
-    name: Nii Adjetey Sowah
-    twitter: #
+    name: WDNica
+    twitter: WDNica
