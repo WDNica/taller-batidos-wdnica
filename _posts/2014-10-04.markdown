@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2014-10-04 23:26:12
+photo: IMG_0114.jpg
+caption_header: Don Sabor
+caption: Taller de Batidos
+---
