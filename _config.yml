@@ -2,7 +2,7 @@ name: Eventos WDNica
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
-url: http://Jairofloress.github.io/taller-batidos-wdnica
+url: http://WDNica.github.io/taller-batidos-wdnica
 author:
     name: WDNica
     twitter: WDNica
